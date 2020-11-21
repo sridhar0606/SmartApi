@@ -1,0 +1,53 @@
+{
+  "name": "smartclass",
+  "version": "1.0.0",
+  "description": "A RESTful API for the Smart Class for Web Applications.",
+  "main": "server.js",
+  "dependencies": {
+    "asyn": "0.0.1",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "2.0.0",
+    "connect-redis": "^3.1.0",
+    "cookie-parser": "^1.4.4",
+    "cookie-session": "^1.3.3",
+    "cors": "^2.8.1",
+    "crypto": "0.0.3",
+    "curlrequest": "^1.0.0",
+    "express": "^4.14.0",
+    "express-session": "^1.15.6",
+    "fcm-push": "^1.1.2",
+    "fileupload": "^1.0.0",
+    "formidable": "^1.2.1",
+    "helmet": "^3.6.1",
+    "js-md5": "^0.4.2",
+    "js-sha512": "^0.3.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.6.3",
+    "morgan": "^1.8.1",
+    "multer": "^1.4.1",
+    "multiparty": "4.1.2",
+    "node-schedule": "^1.2.0",
+    "nodemailer": "^0.7.1",
+    "nodemon": "^1.11.0",
+    "randomstring": "^1.1.5",
+    "redis": "^2.6.2",
+    "request": "2.74.0",
+    "request-promise": "^4.1.1",
+    "simple-nexmo": "^2.2.1",
+    "socket.io": "^1.5.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone "
+  },
+  "keywords": [
+    "Smart Class"
+  ],
+  "author": {},
+  "license": "ISC",
+  "private": true
+}
